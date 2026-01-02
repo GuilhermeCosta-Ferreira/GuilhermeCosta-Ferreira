@@ -1,3 +1,5 @@
+![alt text](banner.png)
+
 ## Hi there 👋
 
 🙋 My name is Guilherme Costa Ferreira, and I'm an MSc Neuro-X student from École Polytechnique Fédérale de Lausanne (EPFL) with a BSc in Biomedical Engineering degree from Instituto Superior Técnico (IST). One of my areas of interest is the brain and the use of technologies related to it, more precisely, brain-machine interfaces. How can we decode the information from the neural activity into meaningful and applicable intel?
